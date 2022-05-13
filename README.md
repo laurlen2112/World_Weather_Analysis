@@ -2,7 +2,7 @@
 
 ## Purpose and Overview 
 The purpose of this project is to assist in the creation of a "PlanMyTrip" app by adding a "weather description" 
-feature that allows customers to view the current weather of potential travel destination in conjunction with the other
+feature that allows customers to view the current weather of potential travel destinations in conjunction with the other
 travel and weather data and to provide an example itinerary.
 
 __This project has 3 deliverables__:
