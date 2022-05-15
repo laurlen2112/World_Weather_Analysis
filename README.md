@@ -7,7 +7,7 @@ vacation data and to provide an example itinerary.
 
 __This project has 3 deliverables__:
 
-* *Deliverable 1*: includes of a data frame exported as a [csv](https://github.com/laurlen2112/World_Weather_Analysis/blob/main/Resources/Del%201%20CSV.png) containing:
+* *Deliverable 1*: includes a data frame exported as a [csv](https://github.com/laurlen2112/World_Weather_Analysis/blob/main/Resources/Del%201%20CSV.png) containing:
 	* Latitude and longitude of potential destinations
 	* Maximum temperature of potential destinations
 	* Percent humidity of potential destinations
