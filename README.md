@@ -7,7 +7,7 @@ vacation data and to provide an example itinerary.
 
 __This project has 3 deliverables__:
 
-* *Deliverable 1*: includes a data frame exported as a [csv](https://github.com/laurlen2112/World_Weather_Analysis/blob/main/Resources/Del%201%20CSV.png) containing:
+* *__Deliverable 1__*: includes a data frame exported as a [csv](https://github.com/laurlen2112/World_Weather_Analysis/blob/main/Resources/Del%201%20CSV.png) containing:
 	* Latitude and longitude of potential destinations
 	* Maximum temperature of potential destinations
 	* Percent humidity of potential destinations
@@ -15,6 +15,10 @@ __This project has 3 deliverables__:
 	* Wind speed of potential destinations
 	* Weather description of potential destinations
 
-* *Deliverable 2*: consists of a [csv](https://github.com/laurlen2112/World_Weather_Analysis/blob/main/Resources/del%202%20csv.png) that [filters potential travel destinations on the basis of minimum and maximum temperatures](https://github.com/laurlen2112/World_Weather_Analysis/blob/main/Resources/Del%202%20code%20box.png) and an [example weather map with location information](https://github.com/laurlen2112/World_Weather_Analysis/blob/main/Resources/WeatherPy_vacation_map%20copy.png).
+* *__Deliverable 2__*: consists of a [csv](https://github.com/laurlen2112/World_Weather_Analysis/blob/main/Resources/del%202%20csv.png) that [filters potential travel destinations on the basis of minimum and maximum temperatures](https://github.com/laurlen2112/World_Weather_Analysis/blob/main/Resources/Del%202%20code%20box.png) and an [example weather map with location information](https://github.com/laurlen2112/World_Weather_Analysis/blob/main/Resources/WeatherPy_vacation_map%20copy.png).
 
-* *Deliverable 3*: contains an example travel itinerary of a multi-stop vacation showing a [travel map](https://github.com/laurlen2112/World_Weather_Analysis/blob/main/Resources/WeatherPy_travel_map%20copy.png) between locations and a [destination map](https://github.com/laurlen2112/World_Weather_Analysis/blob/main/Resources/WeatherPy_travel_map_markers_large%20copy.png) that includes markers depicting relevant destination information.
+<img src ="https://github.com/laurlen2112/World_Weather_Analysis/blob/main/Resources/del%202%20final%20pic.png"/>
+
+* *__Deliverable 3__*: contains an example travel itinerary of a multi-stop vacation showing a [travel map](https://github.com/laurlen2112/World_Weather_Analysis/blob/main/Resources/WeatherPy_travel_map%20copy.png) between locations and a [destination map](https://github.com/laurlen2112/World_Weather_Analysis/blob/main/Resources/WeatherPy_travel_map_markers_large%20copy.png) that includes markers depicting relevant destination information.
+
+<img src ="https://github.com/laurlen2112/World_Weather_Analysis/blob/main/Resources/del%203%20both%20maps.png"/>
